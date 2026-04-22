@@ -1,0 +1,73 @@
+{
+  "qq_number": "1765241233",
+  "group_number": "1072454974",
+  "updated_at": "2026-04-22T16:19:15.355731",
+  "skins": [
+    {
+      "name": "咪的甜点屋",
+      "file": "咪的甜点屋.bds",
+      "thumb": "咪的甜点屋.bds_py_26_light_thumb.png",
+      "full": "咪的甜点屋.bds_py_26_light.png"
+    },
+    {
+      "name": "粉萌熊兔日记",
+      "file": "粉萌熊兔日记.bds",
+      "thumb": "粉萌熊兔日记.bds_py_26_light_thumb.png",
+      "full": "粉萌熊兔日记.bds_py_26_light.png"
+    },
+    {
+      "name": "定格幸福漂",
+      "file": "定格幸福漂.bds",
+      "thumb": "定格幸福漂.bds_py_26_light_thumb.png",
+      "full": "定格幸福漂.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "费尔岛小猫漂.bds",
+      "thumb": "费尔岛小猫漂.bds_py_26_light_thumb.png",
+      "full": "费尔岛小猫漂.bds_py_26_light.png"
+    },
+    {
+      "name": "轻轻松松の圣诞",
+      "file": "轻轻松松の圣诞.bds",
+      "thumb": "轻轻松松の圣诞.bds_py_26_light_thumb.png",
+      "full": "轻轻松松の圣诞.bds_py_26_light.png"
+    },
+    {
+      "name": "咪的甜点屋漂",
+      "file": "咪的甜点屋漂.bds",
+      "thumb": "咪的甜点屋漂.bds_py_26_light_thumb.png",
+      "full": "咪的甜点屋漂.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "费尔岛小猫.bds",
+      "thumb": "费尔岛小猫.bds_py_26_light_thumb.png",
+      "full": "费尔岛小猫.bds_py_26_light.png"
+    },
+    {
+      "name": "绒绒初雪漂",
+      "file": "绒绒初雪漂.bds",
+      "thumb": "绒绒初雪漂.bds_py_26_default_thumb.png",
+      "full": "绒绒初雪漂.bds_py_26_default.png"
+    },
+    {
+      "name": "定格幸福",
+      "file": "定格幸福.bds",
+      "thumb": "定格幸福.bds_py_26_light_thumb.png",
+      "full": "定格幸福.bds_py_26_light.png"
+    },
+    {
+      "name": "绒绒初雪",
+      "file": "绒绒初雪.bds",
+      "thumb": "绒绒初雪.bds_py_26_default_thumb.png",
+      "full": "绒绒初雪.bds_py_26_default.png"
+    },
+    {
+      "name": "粉萌熊兔日记漂",
+      "file": "粉萌熊兔日记漂.bds",
+      "thumb": "粉萌熊兔日记漂.bds_py_26_light_thumb.png",
+      "full": "粉萌熊兔日记漂.bds_py_26_light.png"
+    }
+  ]
+}
