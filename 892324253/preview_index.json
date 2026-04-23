@@ -1,8 +1,14 @@
 {
   "qq_number": "1765241233",
   "group_number": "892324253",
-  "updated_at": "2026-04-22T16:19:15.014301",
+  "updated_at": "2026-04-23T15:52:35.419639",
   "skins": [
+    {
+      "name": "轻轻松松の圣诞",
+      "file": "轻轻松松の圣诞.bdi",
+      "thumb": "轻轻松松の圣诞.bdi_py_26_light_thumb.png",
+      "full": "轻轻松松の圣诞.bdi_py_26_light.png"
+    },
     {
       "name": "粉萌熊兔日记",
       "file": "粉萌熊兔日记.bds",
@@ -14,12 +20,6 @@
       "file": "轻轻松松の圣诞.bds",
       "thumb": "轻轻松松の圣诞.bds_py_26_light_thumb.png",
       "full": "轻轻松松の圣诞.bds_py_26_light.png"
-    },
-    {
-      "name": "轻轻松松の圣诞",
-      "file": "轻轻松松の圣诞.bdi",
-      "thumb": "轻轻松松の圣诞.bdi_py_26_light_thumb.png",
-      "full": "轻轻松松の圣诞.bdi_py_26_light.png"
     }
   ]
 }
