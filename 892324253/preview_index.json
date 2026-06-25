@@ -1,6 +1,13 @@
 {
   "qq_number": "1765241233",
   "group_number": "892324253",
-  "updated_at": "2026-06-25T04:03:48+00:00",
-  "skins": []
+  "updated_at": "2026-06-25T04:04:54+00:00",
+  "skins": [
+    {
+      "name": "极简小白块无背景",
+      "file": "极简小白块无背景.bdi",
+      "thumb": "极简小白块无背景.bdi_py_26_light_thumb.png",
+      "full": "极简小白块无背景.bdi_py_26_light_thumb.png"
+    }
+  ]
 }
